@@ -10,3 +10,7 @@ TODO: about komponens
 
 TODO: routing
 TODO: pipe
+
+TODO: utvonalak vedelme
+TODO: uzenetablak
+TODO: 
