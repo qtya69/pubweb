@@ -5,3 +5,8 @@ TODO: typus CRUD műveletek
 TODO: csomag komponens
 TODO: csomag CRUD műveletek
 
+TODO: home komponens
+TODO: about komponens
+
+TODO: routing
+TODO: pipe
